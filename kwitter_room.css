@@ -1,0 +1,9 @@
+body{
+    background-color: lightskyblue;
+}
+.header{
+    font-style:italic;
+}
+#room_name{
+    text-align: center;
+}
